@@ -1,0 +1,33 @@
+.header_cont{
+    background-color: #1D2F30;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header_cont li{
+    list-style: none;
+    color: #e0e0e0;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.header_cont li:hover{
+    color: #BAE249; 
+}
+
+.header_cont nav{
+    display: flex;
+    gap: 64px;
+    margin-right: 200px;
+}
+
+.nav{
+    display: flex;
+    gap: 64px;
+}
+
+.nav img{
+    cursor: pointer;
+}

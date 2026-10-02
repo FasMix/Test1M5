@@ -1,0 +1,17 @@
+.footer_cont{
+    height: 60px;
+    background-color: #0B1919;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foo2{
+    margin: 0 auto;
+    height: 20px;
+    width: 1400px;
+    background-color: #1D2F30;
+    display: flex;
+    justify-content: center;
+    color: rgba(199, 199, 199, 0.6)
+}

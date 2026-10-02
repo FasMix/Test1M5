@@ -1,0 +1,46 @@
+.banner_cont {
+    background-image: url("../img/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 460px;
+}
+
+.banner_cont h1 {
+    font-size: 60px;
+    line-height: 100%;
+    margin-top: 115px;
+    color: #f0f0f0;
+    cursor: pointer;
+    transition: 0.3s;
+    display: inline-block;
+}
+
+.banner_cont h1:hover {
+    color: #BAE249;
+}
+
+.banner_cont p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #e7e7e7;
+    margin-top: 16px;
+}
+
+.banner_cont a{
+    font-size: 20px;
+    color: #BAE249;
+    text-decoration: none;
+    transition: 0.1s;
+}
+
+.banner_cont a:hover{
+    color: #91AC46;
+}
+
+.banner_cont img{
+    margin-top: 24px;
+    position: relative;
+    top: 5px;
+    left: 8px;
+}
